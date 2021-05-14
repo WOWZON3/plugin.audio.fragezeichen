@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.audio.fragezeichen"
+version="4.0.1"
+name="[COLOR red]Die[/COLOR][COLOR white] drei [/COLOR][COLOR red]Fragezeichen[/COLOR]"
+provider-name="[COLOR lime]EmuZON3 DEV[/COLOR]">
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>audio</provides>
+</extension>
+  <summary>Audio Book Sammlung</summary>
+<extension point="xbmc.addon.metadata">
+  <summary lang="de">Audio Book Dienst</summary>
+  <description lang="de_DE">Alle Abenteuer der drei Fragezeichen jederzeit anhören.</description>
+  <disclaimer lang="de_DE"></disclaimer>
+<assets>
+    <icon>icon.png</icon>
+    <fanart>fanart.jpg</fanart>    
+  </assets>
+  <news></news>
+</extension>
+</addon>
