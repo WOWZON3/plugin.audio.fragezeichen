@@ -1,7 +1,7 @@
 # -*- coding: ISO-8859-1 -*-
 # Module: default
-# Author: YggDraz1l for EmuZONE
-# Created on: 28.06.2018
+# Author: YggDraz1l
+# Created on: 14.05.2021
 # License: GPL v.3 https://www.gnu.org/copyleft/gpl.html
 
 encoding="ISO-8859-1"
